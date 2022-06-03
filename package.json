@@ -1,0 +1,24 @@
+{
+  "name": "p4",
+  "version": "1.0.0",
+  "main": "falsify-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.29.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cit281/p4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cit281/p4/issues"
+  },
+  "homepage": "https://github.com/cit281/p4#readme",
+  "description": ""
+}
